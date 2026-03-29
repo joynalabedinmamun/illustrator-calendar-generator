@@ -13,7 +13,7 @@ A dynamic calendar generator script for Adobe Illustrator.
 - Perfect Date Alignment
 - Year Header Display
 - Print-ready Layout
-
+- 
 ## 🛠 How to Use
 
 1. Open Adobe Illustrator
@@ -29,6 +29,7 @@ A dynamic calendar generator script for Adobe Illustrator.
 
 Joynal Abedin Mamun 
 (@m3mamun)
+
 
 ## 📸 Preview
 
