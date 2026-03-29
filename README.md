@@ -29,3 +29,7 @@ A dynamic calendar generator script for Adobe Illustrator.
 
 Joynal Abedin Mamun 
 (@m3mamun)
+
+## 📸 Preview
+
+![Calendar Preview](calendar.png)
